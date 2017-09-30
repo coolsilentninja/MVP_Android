@@ -1,1 +1,3 @@
 # MVP_Android
+
+This project is to show how to use MVP in android. This code is follow up of the tutorial "MVP in Android"(http://androidstud.com/mvp-in-android/ ‎) in http://androidstud.com domain. The code could be used for any purpose but I should not be liable if something undesirable happens due to code.

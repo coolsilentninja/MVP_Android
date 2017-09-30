@@ -3,7 +3,9 @@ package com.androidstud.mvpexample.mathamatics;
 import com.androidstud.mvpexample.login.LoginContract;
 
 /**
- * Created by karan on 10/6/17.
+ * Created by ninja on 10/6/17.
+ *
+ * http://androidstud.com
  */
 public class MathamaticsPresentor implements MathamaticsContract.Presentor {
 

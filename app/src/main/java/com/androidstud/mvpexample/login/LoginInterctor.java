@@ -5,7 +5,11 @@ import android.os.Handler;
 import java.util.Random;
 
 /**
- * Created by karan on 17/5/17.
+ * Login intractor class
+ *
+ * Created by ninja on 17/5/17.
+ *
+ * http://androidstud.com
  */
 public class LoginInterctor implements LoginContract.Iteractor {
 

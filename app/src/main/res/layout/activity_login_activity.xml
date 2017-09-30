@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
 
     >
-
+<!--http://androidstud.com-->
 
     <EditText
         android:id="@+id/userName"

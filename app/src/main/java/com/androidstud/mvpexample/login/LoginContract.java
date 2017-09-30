@@ -5,7 +5,9 @@ import android.app.Activity;
 /**
  * Login contract class
  *
- * Created by ninja on 17/5/17.
+ * Created by ninja on 17/5/17
+ *
+ * http://androidstud.com.
  */
 public class LoginContract {
 

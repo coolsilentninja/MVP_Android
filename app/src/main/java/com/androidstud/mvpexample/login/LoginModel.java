@@ -1,7 +1,9 @@
 package com.androidstud.mvpexample.login;
 
 /**
- * Created by karan on 12/6/17.
+ * Created by ninja on 12/6/17.
+ *
+ * http://androidstud.com
  */
 public class LoginModel {
 

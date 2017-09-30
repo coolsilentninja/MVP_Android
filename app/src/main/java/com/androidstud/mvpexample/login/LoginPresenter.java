@@ -3,7 +3,10 @@ package com.androidstud.mvpexample.login;
 import android.app.Activity;
 
 /**
- * Created by karan on 17/5/17.
+ *
+ * Created by ninja on 17/5/17.
+ *
+ * http://androidstud.com
  */
 public class LoginPresenter implements LoginContract.Presenter, LoginContract.OnLoginListener {
 
